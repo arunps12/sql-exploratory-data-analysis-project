@@ -1,4 +1,4 @@
-# sql-exploratory-data-analysis-project
+# sql-exploratory-and-advanced-data-analysis-project
 This project is inspired by an online course offered by [Data With Baraa](https://www.youtube.com/@DataWithBaraa) and contains a comprehensive collection of SQL scripts demonstrating various analytical and data exploration techniques.  
 Each script focuses on a specific aspect of data analysis — from database setup to advanced analytical patterns such as trend tracking, cumulative metrics, and performance evaluation.
 ## 📁 Contents
